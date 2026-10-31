@@ -1,0 +1,10 @@
+{
+  "channel": "full",
+  "code": "50302",
+  "version": "5.3.2-beta",
+  "url": "files/full-50302.bin",
+  "sha256": "4d7e937a0c83d835603abafecfe7a761aae248594136923713d38975403a3068",
+  "enc": "aes-gcm",
+  "sig": "VsT6LWlp+/EYmxBO0lKY4WclHklcTmpQNlXFVQSxse9yDvrQ1V+VitnHGUOqCvErE4Azum55NVUaHMp7O3XNAg==",
+  "ts": 1793487919949
+}

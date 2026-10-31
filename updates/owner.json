@@ -1,0 +1,10 @@
+{
+  "channel": "owner",
+  "code": "50302",
+  "version": "5.3.2-beta",
+  "url": "files/owner-50302.bin",
+  "sha256": "2189afe62dc850b26074d01d4702c645df22c8ee97a76d3dc2bf0665b960cae7",
+  "enc": "aes-gcm",
+  "sig": "vfR8YnoLY+8PAwxcdfu3B+9myD3+Y0JyppGvmG7GjIuD8JHDZsn+v0j4XKsft9mkXzsHcgfuVPsDkfzsgz/MBw==",
+  "ts": 1793487920038
+}

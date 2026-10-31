@@ -1,0 +1,10 @@
+{
+  "channel": "trial-24h",
+  "code": "50302",
+  "version": "5.3.2-beta",
+  "url": "files/trial-24h-50302.bin",
+  "sha256": "712e942fd138e39fe3238501352d16104dbd845f0635dc5acefe629de7440efa",
+  "enc": "aes-gcm",
+  "sig": "o1L6RnTSr9FO+gmGR1wcOn4ooPj5rVymYZZnb4R8fLXPkGc7PQ6CXppSVHgCy6vZXcsDlDOOxPFwaUNVFf7UCg==",
+  "ts": 1793487920114
+}
