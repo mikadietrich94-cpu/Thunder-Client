@@ -1,0 +1,10 @@
+{
+  "channel": "trial-30d",
+  "code": "50303",
+  "version": "5.3.3-beta",
+  "url": "files/trial-30d-50303.bin",
+  "sha256": "64a358fcacca31a2b0c1d6ce227e2b1ddc68d2cead9383f215a1bd007d0e8959",
+  "enc": "aes-gcm",
+  "sig": "falGfLF1qblKLvxPd6Cj7gkLOGyegCvlHZ2551a17Uu3bZClyyCFaLWmQ2PBGQu65iaUYj5xfAiY00AjugAYCw==",
+  "ts": 1793994013468
+}

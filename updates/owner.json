@@ -3,8 +3,8 @@
   "code": "50303",
   "version": "5.3.3-beta",
   "url": "files/owner-50303.bin",
-  "sha256": "8b428a5f1c1af03643dc837d061e1d201bf627d7d2133f14ae4b1153e499e5e0",
+  "sha256": "931aff37c9bb4b9899ee4dba4d4c6181b97d92edcc0d1e4025d0a3457afdd393",
   "enc": "aes-gcm",
-  "sig": "inZ8c7QaJIzVRo6htuAHQOy9pyB80yxFqD/R1Vq1MnIoVsmiF1NgKR9pwEZqF0dPmyuZjXJlLQBysuNf1/i6Aw==",
-  "ts": 1793993885435
+  "sig": "Xl9USw1O7t2txEAFCBYc1dqxaa0//YepZ6zbUtIOYd+htiCyptcYHNZoBddVjGCBffPEexAjQLgz7hznBwLnBA==",
+  "ts": 1793994013383
 }
