@@ -1,10 +1,10 @@
 {
   "channel": "owner",
-  "code": "50304",
-  "version": "5.3.4-beta",
-  "url": "files/owner-50304.bin",
-  "sha256": "c9bf0f9b15198e481dadf036b4127646e87e6ccab2b8b7817e47c2f5bd1f8c68",
+  "code": "50305",
+  "version": "5.3.5-beta",
+  "url": "files/owner-50305.bin",
+  "sha256": "dd76a2c66c795b975b3ddc04aa9907d17d66d12bd6a0fee84d156ce4cdf98806",
   "enc": "aes-gcm",
-  "sig": "blrkGTE2jaeWhu9L16ZkFsUkIG2RQCNwIBb3j6WElg51bUehFgcFcSPK/RvQXFPqJiJ7ds7VEGsHI4zn8swHBw==",
-  "ts": 1793994529665
+  "sig": "c7Jjiymfva2DldLHdP85yRpKxLtAzna0fJOrUwgUYpq81uKLnOH2i32PsK9IK9+8P58KXTLAC/Zg+p5z4rNnAQ==",
+  "ts": 1794002069629
 }
