@@ -1,10 +1,10 @@
 {
   "channel": "trial-24h",
-  "code": "50303",
-  "version": "5.3.3-beta",
-  "url": "files/trial-24h-50303.bin",
-  "sha256": "1f1c5d2b23aa6add36cf0986aecf826b269e1908146be5e9b981588b776d582f",
+  "code": "50304",
+  "version": "5.3.4-beta",
+  "url": "files/trial-24h-50304.bin",
+  "sha256": "12300a01079f5580e5fbff37484cced6049b718571df6ed63b07f52126c7954d",
   "enc": "aes-gcm",
-  "sig": "52No/eMhy1O75WjnB19ApmqdJU5VrN3ynoz1bxZAZgwRfmdsDsGYVEU1QspJxTEWjIGQ/HKbD6OejOpmkLJ4AA==",
-  "ts": 1793994013433
+  "sig": "KU7bdITSAnGYy7nnPoN3X5cUlFKpjx4JBomC8Xucca2b/30LQiSfErrAoydRNFNd74OKTq9hSYeg00g9RTR1Cw==",
+  "ts": 1793994529719
 }
