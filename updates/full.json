@@ -1,10 +1,10 @@
 {
   "channel": "full",
-  "code": "50566",
-  "version": "5.5.66-beta",
-  "url": "files/full-50566.bin",
-  "sha256": "098fabb0e5dd5d85327e34a2b6145991f61c0fb3920f260659df3bb6e03d690d",
+  "code": "50567",
+  "version": "5.5.67-beta",
+  "url": "files/full-50567.bin",
+  "sha256": "10b12776037f065962300f29147490c8615c92d7df97b2b432a3fa5901e506d0",
   "enc": "aes-gcm",
-  "sig": "tUvrYTsDvD576gpZINbsDsHqQbYLPfUyOHHnu38kF32aCoWixiPoF2d+Yk4kfrq8uEgjCnCDhqRflnr/WoWdCA==",
-  "ts": 1794757025975
+  "sig": "AUTY5gzfO1fAEph4UrAvdijBTe4aVeiymlD1Yjw70YvXMsumXQNu4XaRU+mKDLV6ipedF3+lh1Yn344S0XPfAA==",
+  "ts": 1794769232318
 }
