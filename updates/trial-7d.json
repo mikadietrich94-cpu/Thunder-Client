@@ -1,10 +1,10 @@
 {
   "channel": "trial-7d",
-  "code": "50563",
-  "version": "5.5.63-beta",
-  "url": "files/trial-7d-50563.bin",
-  "sha256": "43518675987a6c38bf00813e8043e3ecf513ba9d392c400b36ea4a605ff6999c",
+  "code": "50565",
+  "version": "5.5.65-beta",
+  "url": "files/trial-7d-50565.bin",
+  "sha256": "369f1faa7468c6d4dd46853ad9065c7ca0333f5cd7d83b641447a513a12677ba",
   "enc": "aes-gcm",
-  "sig": "vKYEAfYf5mnQfmLt8EbxsG4E+ZvqAo6cZMfTPmNBg+4V0DcphyvDY3T4zVxOxoCMSEuex4awyidwBwy/mpyBCA==",
-  "ts": 1794755407840
+  "sig": "GPghk1qEqSP1N2vekzgJsUC17bw48HoTb/XkyIxs0qARvwbUcU0xtpS3+f3dM5S05bySxC/Mk/zraR4onxmcAw==",
+  "ts": 1794756427883
 }
